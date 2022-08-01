@@ -1,0 +1,12 @@
+{
+  "short_name": "todo list",
+  "name": "todo list",
+  "icons": [{
+    "src": "icon.png",
+    "type": "image/png",
+    "sizes": "192x192"
+  }],
+  "start_url": "/todo-list",
+  "background_color": "#fafafa",
+  "theme_color": "#fafafa"
+}
